@@ -70,5 +70,5 @@ actualment_estudiant: ["Programació", "Git i GitHub", "Bases de dades", "Sistem
 
 </div>
 
-Typing SVG
+
  
