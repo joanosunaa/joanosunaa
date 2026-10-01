@@ -18,8 +18,8 @@
 nom: Joan Osuna Ariza
 localitzat_a: Mataró, Barcelona
 estudis_actuals: Estudiant de DAM (Desenvolupament d'Aplicacions Multiplataforma)
-nom_usuari: ["@el-teu-usuari-de-github"]
-mail: el-teu-correu@exemple.cat
+nom_usuari: ["@joanosunaa"]
+mail: alu.joan.osuna@mataro.epiaedu.cat / joanosuariza@gmail.com
 educació:
 [
   "Escola Pia Santa Anna - Mataró - SMX (Sistemes Microinformàtics i Xarxes)",
@@ -31,7 +31,6 @@ treball:
 ]
 actualment_estudiant: ["Programació", "Git i GitHub", "Bases de dades", "Sistemes"]
 àrees_d_interès: ["Programació", "Sistemes", "Hardware"]
-altres_interessos: ["cotxes", "rellotges", "perfumeria"]
 ```
  
 ---
@@ -64,21 +63,7 @@ altres_interessos: ["cotxes", "rellotges", "perfumeria"]
  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
-## 📒 Bitàcola de feina
  
-### [Data] - Història interactiva (en curs)
- 
-- **Què he fet:** una història amb decisions que porten a finals diferents, amb una pista per continuar i una decisió basada en l'atzar.
-- **Què he après:** [una cosa concreta]
-- **Dificultats:** [què t'ha costat i com ho has resolt]
----
- 
-### [Data] - [Següent entrada...]
- 
-- **Què he fet:**
-- **Què he après:**
-- **Dificultats:**
----
  
 ### 🔗 Contacte
  
