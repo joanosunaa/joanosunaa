@@ -43,7 +43,7 @@ actualment_estudiant: ["Programació", "Git i GitHub", "Bases de dades", "Sistem
 | Període | Lloc | Descripció |
 |---|---|---|
 | Actualment | Escola Pia Santa Anna - Mataró | **DAM** - Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma |
-| [Any] | Ajuntament d'Argentona | **Treball** - Pràctiques de SMX |
+| 2024 - 2026 | Ajuntament d'Argentona | **Treball** - Pràctiques de SMX |
 | 2024 - 2026 | Escola Pia Santa Anna - Mataró | **SMX** - Cicle Mitjà de Sistemes Microinformàtics i Xarxes |
  
 ## 🛠 Tech skills
