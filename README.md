@@ -72,6 +72,6 @@ actualment_estudiant: ["Programació", "Git i GitHub", "Bases de dades", "Sistem
 <a href="https://github.com/el-teu-usuari"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
  
 </div>
----
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Archivo+Black&weight=900&size=30&duration=4000&pause=500&color=1F6D90&center=true&vCenter=true&width=900&height=75&lines=%22Cada+dia+una+línia+de+codi+més.%22;%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
