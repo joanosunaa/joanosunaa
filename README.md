@@ -10,9 +10,9 @@
     alt="Typing SVG" 
   />
 </p>
-> <i>“Els errors són la manera d'aprendre a programar.”</i>
+
  
----
+
  
 ```yaml
 nom: Joan Osuna Ariza
